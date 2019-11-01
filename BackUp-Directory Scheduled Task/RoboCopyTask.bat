@@ -1,0 +1,1 @@
+robocopy "C:\Users\215404\OneDrive - MModal\PowerShell" "\\tsclient\F\PowerShell\MModal" /MIR /FFT /Z /XA:H /W:5 /log:c:\temp\MModal_Powershell_Backup.log /v
